@@ -28,7 +28,7 @@ Sample `.pre-commit-config.yaml`:
 
 ```yaml
   - repo: https://github.com/coatl-dev/godolint-coatl
-    rev: 1.0.3
+    rev: 1.2.1
     hooks:
       - id: godolint
 ```
